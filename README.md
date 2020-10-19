@@ -17,6 +17,6 @@
 
    2020-10-18_species-list_01.py [species-list](../main/source-code/2020-10-18_species-list_01.py)
 ### [Images](../main/Images) Files
-![camponotus-darwinii](../main/Images/2020-10-18_acanthomyrm-ex-ferox_casent-0901788-p-1-high_01.jpg)
+![camponotus-darwinii](../main/Images/2020-10-18_acanthomyrm-ex-ferox_casent-0901788-p-1-high_01.jpg "Camponotus darwinii")
 ### [Data](../main/Data) Files
 
