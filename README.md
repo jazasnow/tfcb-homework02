@@ -7,15 +7,19 @@
 1. Datasets available:
 
    2020-10-18_dataset_01.py [datasets](../main/source-code/2020-10-18_dataset_01.py)
+   
 2. Initializing and training the model:
 
    2020-10-18_main_01.py [main](../main/source-code/2020-10-18_main_01.py)
+   
 3. Predicting an image or test set
 
    2020-10-18_predict-image_01.py [predict-image](../main/source-code/2020-10-18_predict-image_01.py)
+   
 4. Species imaged the most
 
    2020-10-18_species-list_01.py [species-list](../main/source-code/2020-10-18_species-list_01.py)
+   
 ### [Images](../main/Images) Files
 |        Species        | Case nt |   Notes  |
 |-----------------------|:-------:|---------:|
@@ -28,7 +32,10 @@ Camponotus darwinii ![camponotus-darwinii](../main/Images/2020-10-18_camponotus-
 Rhytidoponera metallica ![rhytidoponera-metallica](../main/Images/2020-10-18_rhytidoponera-metallica_casent-0172345_01.jpg "Rhytidoponera metallica")
 Acanthomyrm ex ferox ![acanthomyrm-ex-ferox](../main/Images/2020-10-18_acanthomyrm-ex-ferox_casent-0901788-p-1-high_01.jpg "Acanthomyrm ex ferox")
 Cataglyphis fortis ![cataglyphis-fortis](../main/Images/2020-10-18_cataglyphis-fortis_casent-0906296-p-1-high_01.jpg "Cataglyphis fortis")
+
 ### [Data](../main/Data) Files
 1. raw data
  
    [Field-season-2014-survey](../main/Data/2020-10-18_field-season-2014_survey-data-01.xlsx)
+   
+2. tidy data
