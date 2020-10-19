@@ -5,7 +5,7 @@
 3. Data
 ### Source-Code
 [datasets](https://github.com/jazasnow/tfcb-homework02/blob/main/source-code/2020-10-18_dataset_01.py)
-[source-code](../tree/main/source-code)
+[source-code](../main/source-code)
 ### Images
 ### Data
 
