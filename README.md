@@ -4,8 +4,12 @@
 2. Images
 3. Data
 ### Source-Code
-[datasets](https://github.com/jazasnow/tfcb-homework02/blob/main/source-code/2020-10-18_dataset_01.py)
 [source-code](../main/source-code)
+1. 2020-10-18_dataset_01.py
+[datasets](../main/source-code/2020-10-18_dataset_01.py)
+2. 2020-10-18_main_01.py
+3. 2020-10-18_predict-image_01.py
+4. 2020-10-18_species-list_01.py
 ### Images
 ### Data
 
