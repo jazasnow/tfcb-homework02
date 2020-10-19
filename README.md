@@ -1,8 +1,8 @@
 # *tfcb-homework02*
 ## Directories
-1. Source-Code
-2. Images
-3. Data
+1. [source-code](../main/source-code)
+2. [Images](../main/Images)
+3. [Data](../main/Data)
 ### [source-code](../main/source-code) Files
 1. Datasets available:
 
