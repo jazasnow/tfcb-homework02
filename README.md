@@ -17,9 +17,12 @@
 
    2020-10-18_species-list_01.py [species-list](../main/source-code/2020-10-18_species-list_01.py)
 ### [Images](../main/Images) Files
-|      Species      | Case nt |
-|-------------------|:-------:|
-|Camponotus darwinii| 0191696 |
+|        Species        | Case nt |   Notes  |
+|-----------------------|:-------:|---------:|
+|  Camponotus darwinii  | 0191696 |          |
+|Rhytidoponera metallica| 0172345 |          |
+|  Acanthomyrm ex ferox | 0901788 | p-1 high |
+|   Cataglyphis fortis  | 0906296 | p-1 high |
 
 Camponotus darwinii ![camponotus-darwinii](../main/Images/2020-10-18_camponotus-darwinii_casent-0191696_01.jpg "Camponotus darwinii")
 Rhytidoponera metallica ![rhytidoponera-metallica](../main/Images/2020-10-18_rhytidoponera-metallica_casent-0172345_01.jpg "Rhytidoponera metallica")
