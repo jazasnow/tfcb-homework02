@@ -4,8 +4,7 @@
 2. Images
 3. Data
 ### Source-Code
-[datasets](2020-10-18_dataset_01.py)
+[datasets](../jazasnow/tfcb-homework02/source-code/2020-10-18_dataset_01.py)
 ### Images
 ### Data
 
-[google](https://google.com)
