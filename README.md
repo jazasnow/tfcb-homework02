@@ -6,19 +6,19 @@
 ### [source-code](../main/source-code) Files
 1. [datasets](../main/source-code/2020-10-18_dataset_01.py)
 
-   1. Datasets available
+   1. datasets available
    
 2. [main](../main/source-code/2020-10-18_main_01.py)
 
-   1. Initializing and training the model
+   1. initializing and training the model
    
 3. [predict-image](../main/source-code/2020-10-18_predict-image_01.py)
 
-   1. Predicting an image or test set
+   1. predicting an image or test set
    
 4. [species-list](../main/source-code/2020-10-18_species-list_01.py)
 
-   1. Species imaged the most
+   1. species imaged the most
    
 ### [images](../main/images) Files
 |        Species        | Case nt |   Notes  |
@@ -36,14 +36,16 @@ Cataglyphis fortis ![cataglyphis-fortis](../main/images/2020-10-18_cataglyphis-f
 ### [data](../main/data) Files
 1. raw data
  
-   [field-seasons-survey](../main/data/2020-10-18_field-seasons_survey-data-01.xlsx)
+   1. [field-seasons-survey](../main/data/2020-10-18_field-seasons_survey-data-01.xlsx)
    
 2. tidy data
 
-   [field-seasons-survey-tidy-data](../main/data/2020-10-19_field-seasons_survey-tidy-data-01.xlsx)
+   1. excel files
+      1. [field-seasons-survey-tidy-data](../main/data/2020-10-19_field-seasons_survey-tidy-data-01.xlsx)
    
-3. [tab-delineated-text-files](../main/data/tab-delineated-text-files)
-   1. [1978-field-season](../main/data/tab-delineated-text-files/2020-10-19_1978-field-season_survey-tidy-data-01.txt)
-   2. [2013-field-season](../main/data/tab-delineated-text-files/2020-10-19_2013-field-season_survey-tidy-data-01.txt)
-   3. [2014-field-season](../main/data/tab-delineated-text-files/2020-10-19_2014-field-season_survey-tidy-data-01.txt)
-   4. [2015-field-season](../main/data/tab-delineated-text-files/2020-10-19_2015-field-season_survey-tidy-data-01.txt)
+   2. tab delineated text files
+      1. [tab-delineated-text-files](../main/data/tab-delineated-text-files)
+         1. [1978-field-season](../main/data/tab-delineated-text-files/2020-10-19_1978-field-season_survey-tidy-data-01.txt)
+         2. [2013-field-season](../main/data/tab-delineated-text-files/2020-10-19_2013-field-season_survey-tidy-data-01.txt)
+         3. [2014-field-season](../main/data/tab-delineated-text-files/2020-10-19_2014-field-season_survey-tidy-data-01.txt)
+         4. [2015-field-season](../main/data/tab-delineated-text-files/2020-10-19_2015-field-season_survey-tidy-data-01.txt)
