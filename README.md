@@ -6,25 +6,25 @@
 ### [source-code](../main/source-code) Files
 1. Datasets available:
 
-   2020-10-18_dataset_01.py [datasets](../main/source-code/2020-10-18_dataset_01.py)
+   1. 2020-10-18_dataset_01.py [datasets](../main/source-code/2020-10-18_dataset_01.py)
    
 2. Initializing and training the model:
 
-   2020-10-18_main_01.py [main](../main/source-code/2020-10-18_main_01.py)
+   1. 2020-10-18_main_01.py [main](../main/source-code/2020-10-18_main_01.py)
    
 3. Predicting an image or test set
 
-   2020-10-18_predict-image_01.py [predict-image](../main/source-code/2020-10-18_predict-image_01.py)
+   1. 2020-10-18_predict-image_01.py [predict-image](../main/source-code/2020-10-18_predict-image_01.py)
    
 4. Species imaged the most
 
-   2020-10-18_species-list_01.py [species-list](../main/source-code/2020-10-18_species-list_01.py)
+   1. 2020-10-18_species-list_01.py [species-list](../main/source-code/2020-10-18_species-list_01.py)
    
 ### [images](../main/images) Files
 |        Species        | Case nt |   Notes  |
 |-----------------------|:-------:|---------:|
-|  Camponotus darwinii  | 0191696 |          |
-|Rhytidoponera metallica| 0172345 |          |
+|  Camponotus darwinii  | 0191696 |    NA    |
+|Rhytidoponera metallica| 0172345 |    NA    |
 |  Acanthomyrm ex ferox | 0901788 | p-1 high |
 |   Cataglyphis fortis  | 0906296 | p-1 high |
 
