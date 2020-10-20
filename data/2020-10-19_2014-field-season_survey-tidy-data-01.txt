@@ -1,0 +1,46 @@
+																						
+																						
+	species	date-collected	plot	sex	weight-g	callibration																
+	dm	2014-01-08	2	m	44	NA																
+	dm	2014-01-08	2	m	45	NA																
+	dm	2014-01-09	1	m	40	NA																
+	dm	2014-01-09	1	f	36	NA																
+	dm	2014-02-18	2	m	52	NA																
+	dm	2014-03-13	1	f	51	NA																
+	dm	2014-03-13	1	f	44	NA																
+	ds	2014-01-08	2	m	157	scale-not-calibrated																
+	ds	2014-03-13	1	f	146	NA																
+	na	2014-01-08	2	NA	NA	NA																
+	na	2014-02-18	2	m	218	scale-not-calibrated																
+	ot	2014-01-08	2	NA	NA	NA																
+	ox	2014-01-08	2	NA	NA	NA																
+	pf	2014-01-08	2	f	7	NA																
+	pf	2014-02-18	2	f	7	NA																
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						

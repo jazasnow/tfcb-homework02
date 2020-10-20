@@ -1,0 +1,23 @@
+																									
+species	date-collected	plot	sex	weight-g	callibration																				
+dm	2013-07-16	2	f	NA	NA																				
+dm	2013-07-16	7	m	33	NA																				
+dm	2013-07-16	3	m	NA	NA																				
+dm	2013-07-16	1	m	NA	NA																				
+dm	2013-07-18	3	m	40	NA																				
+dm	2013-07-18	7	m	48	NA																				
+dm	2013-07-18	4	f	29	NA																				
+dm	2013-07-18	6	f	37	NA																				
+do	2013-08-19	8	f	52	NA																				
+do	2013-10-17	3	f	33	NA																				
+do	2013-10-17	3	f	50	NA																				
+do	2013-12-10	9	f	40	NA																				
+do	2013-12-10	1	m	45	NA																				
+do	2013-12-10	8	f	41	NA																				
+ds	2013-11-12	9	f	117	NA																				
+ds	2013-11-13	11	f	126	NA																				
+ds	2013-11-13	17	m	132	scale-not-callibrated																				
+ds	2013-11-13	14	f	113	scale-not-callibrated																				
+ds	2013-11-13	11	f	122	NA																				
+ds	2013-11-13	4	f	107	NA																				
+ds	2013-11-13	4	f	115	NA																				
