@@ -41,3 +41,5 @@ Cataglyphis fortis ![cataglyphis-fortis](../main/images/2020-10-18_cataglyphis-f
 2. tidy data
 
    [field-seasons-survey-tidy-data](../main/data/2020-10-19_field-seasons_survey-tidy-data-01.xlsx)
+   
+3. [tab-delineated-text-files](../main/data/tab-delineated-text-files)
