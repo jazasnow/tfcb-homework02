@@ -43,3 +43,7 @@ Cataglyphis fortis ![cataglyphis-fortis](../main/images/2020-10-18_cataglyphis-f
    [field-seasons-survey-tidy-data](../main/data/2020-10-19_field-seasons_survey-tidy-data-01.xlsx)
    
 3. [tab-delineated-text-files](../main/data/tab-delineated-text-files)
+   1. [1978-field-season](main/data/tab-delineated-text-files/2020-10-19_1978-field-season_survey-tidy-data-01.txt)
+   2. [2013-field-season](main/data/tab-delineated-text-files/2020-10-19_2013-field-season_survey-tidy-data-01.txt)
+   3. [2014-field-season](main/data/tab-delineated-text-files/2020-10-19_2014-field-season_survey-tidy-data-01.txt)
+   4. [2015-field-season](main/data/tab-delineated-text-files/2020-10-19_2015-field-season_survey-tidy-data-01.txt)
