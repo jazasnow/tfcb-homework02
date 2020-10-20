@@ -4,21 +4,21 @@
 2. [images](../main/images)
 3. [data](../main/data)
 ### [source-code](../main/source-code) Files
-1. Datasets available:
+1. [datasets](../main/source-code/2020-10-18_dataset_01.py)
 
-   1. [datasets](../main/source-code/2020-10-18_dataset_01.py)
+   1. Datasets available
    
-2. Initializing and training the model:
+2. [main](../main/source-code/2020-10-18_main_01.py)
 
-   1. [main](../main/source-code/2020-10-18_main_01.py)
+   1. Initializing and training the model
    
-3. Predicting an image or test set
+3. [predict-image](../main/source-code/2020-10-18_predict-image_01.py)
 
-   1. [predict-image](../main/source-code/2020-10-18_predict-image_01.py)
+   1. Predicting an image or test set
    
-4. Species imaged the most
+4. [species-list](../main/source-code/2020-10-18_species-list_01.py)
 
-   1. [species-list](../main/source-code/2020-10-18_species-list_01.py)
+   1. Species imaged the most
    
 ### [images](../main/images) Files
 |        Species        | Case nt |   Notes  |
