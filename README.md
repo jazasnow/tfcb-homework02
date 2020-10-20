@@ -36,7 +36,8 @@ Cataglyphis fortis ![cataglyphis-fortis](../main/images/2020-10-18_cataglyphis-f
 ### [data](../main/data) Files
 1. raw data
  
-   1. [field-seasons-survey](../main/data/2020-10-18_field-seasons_survey-data-01.xlsx)
+   1. excel files
+      1. [field-seasons-survey](../main/data/2020-10-18_field-seasons_survey-data-01.xlsx)
    
 2. tidy data
 
