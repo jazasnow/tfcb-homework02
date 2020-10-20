@@ -1,8 +1,8 @@
 # *tfcb-homework02*
 ## Directories
 1. [source-code](../main/source-code)
-2. [Images](../main/Images)
-3. [Data](../main/Data)
+2. [images](../main/images)
+3. [data](../main/data)
 ### [source-code](../main/source-code) Files
 1. Datasets available:
 
@@ -20,7 +20,7 @@
 
    2020-10-18_species-list_01.py [species-list](../main/source-code/2020-10-18_species-list_01.py)
    
-### [Images](../main/Images) Files
+### [images](../main/images) Files
 |        Species        | Case nt |   Notes  |
 |-----------------------|:-------:|---------:|
 |  Camponotus darwinii  | 0191696 |          |
@@ -28,14 +28,14 @@
 |  Acanthomyrm ex ferox | 0901788 | p-1 high |
 |   Cataglyphis fortis  | 0906296 | p-1 high |
 
-Camponotus darwinii ![camponotus-darwinii](../main/Images/2020-10-18_camponotus-darwinii_casent-0191696_01.jpg "Camponotus darwinii")
-Rhytidoponera metallica ![rhytidoponera-metallica](../main/Images/2020-10-18_rhytidoponera-metallica_casent-0172345_01.jpg "Rhytidoponera metallica")
-Acanthomyrm ex ferox ![acanthomyrm-ex-ferox](../main/Images/2020-10-18_acanthomyrm-ex-ferox_casent-0901788-p-1-high_01.jpg "Acanthomyrm ex ferox")
-Cataglyphis fortis ![cataglyphis-fortis](../main/Images/2020-10-18_cataglyphis-fortis_casent-0906296-p-1-high_01.jpg "Cataglyphis fortis")
+Camponotus darwinii ![camponotus-darwinii](../main/images/2020-10-18_camponotus-darwinii_casent-0191696_01.jpg "Camponotus darwinii")
+Rhytidoponera metallica ![rhytidoponera-metallica](../main/images/2020-10-18_rhytidoponera-metallica_casent-0172345_01.jpg "Rhytidoponera metallica")
+Acanthomyrm ex ferox ![acanthomyrm-ex-ferox](../main/images/2020-10-18_acanthomyrm-ex-ferox_casent-0901788-p-1-high_01.jpg "Acanthomyrm ex ferox")
+Cataglyphis fortis ![cataglyphis-fortis](../main/images/2020-10-18_cataglyphis-fortis_casent-0906296-p-1-high_01.jpg "Cataglyphis fortis")
 
-### [Data](../main/Data) Files
+### [data](../main/data) Files
 1. raw data
  
-   [Field-season-2014-survey](../main/Data/2020-10-18_field-season-2014_survey-data-01.xlsx)
+   [Field-season-2014-survey](../main/data/2020-10-18_field-season-2014_survey-data-01.xlsx)
    
 2. tidy data
